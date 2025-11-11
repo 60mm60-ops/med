@@ -1,9 +1,9 @@
-# ぽちぽちメッズ（Pochi Pochi Meds）
+# ぽちぽちメッド（Pochi Pochi Med）
 
 服薬管理と診察サポートを行うWebアプリケーション。  
 「弱い人に合わせる設計」をコンセプトに、高齢者や病気の人でも直感的に使えるシンプルなUIを実現しています。
 
-![ぽちぽちメッズ](https://via.placeholder.com/800x400/22c55e/ffffff?text=ぽちぽちメッズ)
+![ぽちぽちメッド](https://via.placeholder.com/800x400/22c55e/ffffff?text=ぽちぽちメッズ)
 
 ## 🌟 コンセプト
 
